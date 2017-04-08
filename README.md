@@ -7,3 +7,4 @@ master rebase text
 master local change 1
 master repo change 1
 master repo 2
+master local 2
