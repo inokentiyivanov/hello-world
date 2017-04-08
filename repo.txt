@@ -1,10 +1,3 @@
 before
-between
+betwee
 after
-
-after
-<<<<<<< HEAD
-local
-=======
-after
->>>>>>> e7f8c6de211d905c96b1d8609cc33181efb836d2
